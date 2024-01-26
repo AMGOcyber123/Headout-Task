@@ -28,7 +28,7 @@
  
 
 ## Usage
-You can access the HTTP server at http://localhost:8080. Here are some sample API endpoints:
+You can access the HTTP server at http://localhost:8080.
 
 ### Retrieving Content from a Text File
 
