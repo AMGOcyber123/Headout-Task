@@ -62,3 +62,8 @@ While working on optimizing this project, I encountered several challenges due t
 **3. Large Number of Files:** Handling more than 30 different 100MB files added complexity to the project. Ensuring that each file could be accessed and retrieved efficiently posed a challenge.
 
 In summary, optimizing this project for serving large files was a challenging task. While the optimizations attempted may not be perfect, they represent efforts to strike a balance between efficiency and resource usage. Further refinements and improvements can always make the project even more robust.
+
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AMGOcyber123/Headout-Task/blob/master/LICENSE) file for details.
